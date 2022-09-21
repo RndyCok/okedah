@@ -82,10 +82,6 @@ global.verify = 'https://telegra.ph/file/74e00be8229ffcfbe5200.jpg'
 global.guest = 'https://telegra.ph/file/e6efac62f7e9d07ff02c8.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289646664914'],
-    ['+84 36 628 7141'],
-    ['+1 (306) 801-6884'],
-  ['6283141795808', 'robby', true ], //Owner3
   ['6283897011555', 'RndyDeployer', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
